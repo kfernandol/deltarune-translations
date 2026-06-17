@@ -13,7 +13,7 @@
           "id": "chapter2", "label": "Capítulo 2",
           "assets": {
             "text": {
-              "version": "1.1",
+              "version": "1.0",
               "sha256": "sha256:9548ea1059bd300330c279d993cae7fac9834a25bdef580ebc4ab1b5978f5de6",
               "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter2-text-v1.0.langpack"
             }
