@@ -3,14 +3,20 @@
   "minPatcherVersion": "1.0.0",
   "latestPatcherVersion": "1.0.0",
   "patcherDownloadUrl": "https://github.com/K0ZNX/deltarune-translations/releases/latest",
-  "discordUrl": "https://discord.gg/CAMBIAR",
+  "discordUrl": "https://discord.gg/rnYqEw7Yvr",
   "languages": [
     {
       "code": "es",
       "name": "Español",
+      "fonts": { 
+        "version":"1.0", 
+        "sha256":"sha256:8767a851202c885e2347b851c65052463170d31d73c314c7044ea1541d457c15", 
+        "url":"https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/es-fonts-v1.0.fontpack" 
+      },
       "targets": [
         {
-          "id": "chapter2", "label": "Capítulo 2",
+          "id": "chapter2", 
+          "label": "Capítulo 2",
           "assets": {
             "text": {
               "version": "1.0",
