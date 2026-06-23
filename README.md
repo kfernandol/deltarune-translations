@@ -5,7 +5,7 @@ Packs de traducción multi-idioma para **DELTARUNE**, distribuidos para el parch
 **cifrados** y no son utilizables fuera del parcheador.
 
 - **Cómo usar:** descarga el parcheador → elige idioma y capítulos → parchea.
-- **Descargas / soporte:** [Discord](https://discord.new/hxfbNTCh2csQ)
+- **Descargas / soporte:** [Discord](https://discord.new/rnYqEw7Yvr)
 
 ## Descargo de responsabilidad
 Proyecto de **fans, sin fines de lucro** y **no afiliado** a Toby Fox ni a sus distribuidoras.
