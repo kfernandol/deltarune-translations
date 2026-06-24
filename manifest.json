@@ -15,6 +15,17 @@
       },
       "targets": [
         {
+          "id": "launcher",
+          "label": "Menú del juego",
+          "assets": {
+            "text": {
+              "version": "1.0",
+              "sha256": "sha256:fea61a8cf698381abe0ccd073f74762d9b432ba63d198b13a6bf82ba36359987",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/main-text-v1.0.langpack"
+            }
+          }
+        },
+        {
           "id": "chapter2",
           "label": "Capítulo 2",
           "assets": {
