@@ -41,9 +41,9 @@
           "label": "Capítulo 3",
           "assets": {
             "text": {
-              "version": "1.1",
-              "sha256": "sha256:bdb874a8beca417476a65ad5b4a8593a34aaf0b5433f5c464cf8ea3f11f3dcef",
-              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter3-text-v1.1.langpack"
+              "version": "1.2",
+              "sha256": "sha256:b92f9c452ab5bec99e6621668e89ebb171113964ce020229ab77116f227a1871",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter3-text-v1.2.langpack"
             }
           }
         },
