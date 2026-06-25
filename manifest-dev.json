@@ -1,0 +1,75 @@
+{
+  "schema": 3,
+  "minPatcherVersion": "1.0.0",
+  "latestPatcherVersion": "1.0.0",
+  "patcherDownloadUrl": "https://github.com/kfernandol/deltarune-translations/releases/latest",
+  "discordUrl": "https://discord.gg/rnYqEw7Yvr",
+  "languages": [
+    {
+      "code": "es",
+      "name": "Español",
+      "fonts": {
+        "version": "1.0",
+        "sha256": "sha256:8767a851202c885e2347b851c65052463170d31d73c314c7044ea1541d457c15",
+        "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/es-fonts-v1.0.fontpack"
+      },
+      "targets": [
+        {
+          "id": "launcher",
+          "label": "Menú del juego",
+          "assets": {
+            "text": {
+              "version": "1.0",
+              "sha256": "sha256:fea61a8cf698381abe0ccd073f74762d9b432ba63d198b13a6bf82ba36359987",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/main-text-v1.0.langpack"
+            }
+          }
+        },
+        {
+          "id": "chapter2",
+          "label": "Capítulo 2",
+          "assets": {
+            "text": {
+              "version": "1.1",
+              "sha256": "sha256:a9b09f7cbd4f82bc987106baa0cc23cb61d7739cdf9b2f1c2b9da6267c958041",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter2-text-v1.1.langpack"
+            }
+          }
+        },
+        {
+          "id": "chapter3",
+          "label": "Capítulo 3",
+          "assets": {
+            "text": {
+              "version": "1.3",
+              "sha256": "sha256:d93b0016baaea63d93c9f01be56ed2df04abbc7bccbe9cb4e0dec550d11f1a6f",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter3-text-v1.3.langpack"
+            }
+          }
+        },
+        {
+          "id": "chapter4",
+          "label": "Capítulo 4",
+          "assets": {
+            "text": {
+              "version": "1.5",
+              "sha256": "sha256:2ea98713a07de645fddaf5c0b8b852cf30f1cb7dc7fd67e2e8b78f97f801e02d",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter4-text-v1.5.langpack"
+            }
+          }
+        },
+        {
+          "id": "chapter5",
+          "label": "Capítulo 5",
+          "assets": {
+            "text": {
+              "version": "1.2",
+              "sha256": "sha256:cd19f372d99e14d71c929377c2c549cb4688598717e46b116e6d3b40dad297f6",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter5-text-v1.1.langpack"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
