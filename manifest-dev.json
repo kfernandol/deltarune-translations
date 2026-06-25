@@ -25,6 +25,17 @@
             }
           }
         },
+         {
+          "id": "chapter1",
+          "label": "Capítulo 1",
+          "assets": {
+            "text": {
+              "version": "1.0",
+              "sha256": "sha256:fb26547646aca0049c991f2eefe5c0f65eda51163bebeb642178564240834e45",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter1-text-v1.0.langpack"
+            }
+          }
+        },
         {
           "id": "chapter2",
           "label": "Capítulo 2",
