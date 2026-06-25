@@ -63,7 +63,7 @@
           "label": "Capítulo 5",
           "assets": {
             "text": {
-              "version": "1.1",
+              "version": "1.2",
               "sha256": "sha256:cd19f372d99e14d71c929377c2c549cb4688598717e46b116e6d3b40dad297f6",
               "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter5-text-v1.1.langpack"
             }
