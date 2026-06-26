@@ -1,8 +1,8 @@
 {
   "schema": 3,
-  "minPatcherVersion": "1.0.0",
-  "latestPatcherVersion": "1.0.0",
-  "patcherDownloadUrl": "https://github.com/kfernandol/deltarune-translations/releases/latest",
+  "minPatcherVersion": "2.0.0",
+  "latestPatcherVersion": "2.0.0",
+  "patcherDownloadUrl": "https://discord.gg/rnYqEw7Yvr",
   "discordUrl": "https://discord.gg/rnYqEw7Yvr",
   "languages": [
     {
@@ -19,9 +19,20 @@
           "label": "Menú del juego",
           "assets": {
             "text": {
-              "version": "1.0",
-              "sha256": "sha256:fea61a8cf698381abe0ccd073f74762d9b432ba63d198b13a6bf82ba36359987",
-              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/main-text-v1.0.langpack"
+              "version": "2.0",
+              "sha256": "sha256:ae03ed1ec6a548578ebbdf21b9626eb53a04043bb3afa193bb204a8b3582670b",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/main-text-v2.0.langpack"
+            }
+          }
+        },
+        {
+          "id": "chapter1",
+          "label": "Capítulo 1",
+          "assets": {
+            "text": {
+              "version": "2.0",
+              "sha256": "sha256:4400157a76d7987fd29592d6b477740b3f4e3f444a125a1f811255c2ee36a102",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter1-text-v2.0.langpack"
             }
           }
         },
@@ -30,9 +41,9 @@
           "label": "Capítulo 2",
           "assets": {
             "text": {
-              "version": "1.1",
-              "sha256": "sha256:a9b09f7cbd4f82bc987106baa0cc23cb61d7739cdf9b2f1c2b9da6267c958041",
-              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter2-text-v1.1.langpack"
+              "version": "2.0",
+              "sha256": "sha256:fc352714feb6bb15b7fa972c1bc158a56cbed2bcd07ddfa99cc7e4cf0f4f8ecd",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter2-text-v2.0.langpack"
             }
           }
         },
@@ -41,9 +52,9 @@
           "label": "Capítulo 3",
           "assets": {
             "text": {
-              "version": "1.3",
-              "sha256": "sha256:d93b0016baaea63d93c9f01be56ed2df04abbc7bccbe9cb4e0dec550d11f1a6f",
-              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter3-text-v1.3.langpack"
+              "version": "2.0",
+              "sha256": "sha256:51afdd3a264d4bb3f624dcbb1e607987b0193e8681fb10998df28d602c13b8c8",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter3-text-v2.0.langpack"
             }
           }
         },
@@ -52,9 +63,9 @@
           "label": "Capítulo 4",
           "assets": {
             "text": {
-              "version": "1.5",
-              "sha256": "sha256:2ea98713a07de645fddaf5c0b8b852cf30f1cb7dc7fd67e2e8b78f97f801e02d",
-              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter4-text-v1.5.langpack"
+              "version": "2.0",
+              "sha256": "sha256:723f2d408609a77360b6e083c5567f210e48e7376447fc73a6428cf8e23e4982",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter4-text-v2.0.langpack"
             }
           }
         },
@@ -63,9 +74,9 @@
           "label": "Capítulo 5",
           "assets": {
             "text": {
-              "version": "1.2",
-              "sha256": "sha256:cd19f372d99e14d71c929377c2c549cb4688598717e46b116e6d3b40dad297f6",
-              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter5-text-v1.1.langpack"
+              "version": "2.0",
+              "sha256": "sha256:422f720636d5e4d3043e4300df8a80d914dc49c386909961ab5881fb8b5b4498",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-es/chapter5-text-v2.0.langpack"
             }
           }
         }
