@@ -98,7 +98,7 @@
           "assets": {
             "text": {
               "version": "3.5",
-              "sha256": "sha256:d484bf8f745b0a46ccb307c7871fdf8a26b1dc53c0e9d7efb3d29307fdba963f",
+              "sha256": "sha256:0eea61a74281e4bb20999911202e2241f977d45ce5deb9c18f61e8070484f6d6",
               "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-pt/raiz_lang_pt.json"
             }
           }
@@ -109,7 +109,7 @@
           "assets": {
             "text": {
               "version": "3.5",
-              "sha256": "sha256:b8b8d10ef73defebdef40b13b0f24b122b64e579ca4d3895d7471100eb6a5fea",
+              "sha256": "sha256:17bea985b04e6346e88031ada053e797d02158c88be98b0f7bdb24a80c8cb6a5",
               "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-pt/chapter1_windows_lang_pt.json"
             }
           }
@@ -120,7 +120,7 @@
           "assets": {
             "text": {
               "version": "3.5",
-              "sha256": "sha256:e46f5d4e2060c47819d1c44672e14cf26a7edac2ff0917a24d93045471168f8d",
+              "sha256": "sha256:38dacb3059acdd5ab151b72e29c658a6bd322ee878e574de7272dd818ff526f1",
               "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-pt/chapter2_windows_lang_pt.json"
             }
           }
