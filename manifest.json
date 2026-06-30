@@ -88,7 +88,7 @@
 	  "chapterWord": "Capitulo", 
       "fonts": {
         "version": "1.0",
-        "sha256": "sha256:d484bf8f745b0a46ccb307c7871fdf8a26b1dc53c0e9d7efb3d29307fdba963f",
+        "sha256": "sha256:0a6501679456484f42e1db02300da76c7f704158fe66bc2eac8e883208c95e25",
         "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-pt/fonts_lang-pt.zip"
       },
       "targets": [
