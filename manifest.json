@@ -113,6 +113,17 @@
               "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-pt/chapter1_windows_lang_pt.json"
             }
           }
+        },
+		  {
+          "id": "chapter2",
+          "label": "Capítulo 2",
+          "assets": {
+            "text": {
+              "version": "2.5",
+              "sha256": "sha256:1a3e73fac41fb4dcb70ad0ef2ff2b5988671e891ea2a759b8558ac156cf2cd77",
+              "url": "https://github.com/kfernandol/deltarune-translations/releases/download/assets-pt/chapter2_windows_lang_pt.json"
+            }
+          }
         }
       ]
     }
